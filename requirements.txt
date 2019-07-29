@@ -1,0 +1,5 @@
+rpi.gpio
+pandas
+glob2
+tables
+pdfminer.six

@@ -9,8 +9,11 @@ Please note users may need to install Python3 with the packages `rpi.gpio`, `pan
 Navigate to the current directory and run the following commands in the terminal.
 
 If you need convert a `.pdf` to a `.txt` file, please run`python3 pdf2text.py` first. 
+
 Otherwise, please run `python3 text2hdf.py` which converts the `.txt` files to a overall`.hdf` file.
-If you need set up a new printer, please run`python3 printer.py`.
+
+If you need set up a new printer, please run`python3 printer.py`for testing.
+
 For the Raspberry Pi, plesae ensure correctly connect the harwares and run `python3 button.py`.
 
 # Useful Instruction
